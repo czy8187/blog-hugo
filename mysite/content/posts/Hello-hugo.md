@@ -2,8 +2,8 @@
 title: "Hello Hugo" # 文章标题
 date: 2019-04-20T01:50:56+08:00 # 自动添加日期信息
 draft: true # 设为false可被编译为HTML，true供本地修改
-categories: ["Blog,Hugo"] #文章类型，用于归档
-tags: ["Hugo"]  # 文章标签，可设置多个，用逗号隔开。Hugo会自动生成标签页
+categories: ["博客"] #文章类型，用于归档
+tags: ["博客","Hugo"]  # 文章标签，可设置多个，用逗号隔开。Hugo会自动生成标签页
 ---
 
 ### Hello Hugo
@@ -31,7 +31,29 @@ It makes use of a variety of open source projects including:
 
 Learn more and contribute on GitHub.
 
+------
 
 
 
+## 关于博客主题：LeaveIt
+
+- Github链接:https://github.com/liuzc/LeaveIt
+
+- 中文说明：https://liuzhichao.com/2018/hugo-theme-leaveit/
+
+### 部署过程中遇到的问题
+
+1. 使用该主题时，文章标题*号后面要加空格，如：二号标题写法为：`**空格+内容`
+2. TODO：文章目录导航(待添加)，可参考：https://github.com/liuzc/LeaveIt/pull/11
+3. TODO：文章归档和标签按时间倒序()
+
+### 写作工具
+
+1. Markdown工具：[Typora](https://www.typora.io)
+
+2. 图床暂时用的:[SM.MS](https://sm.ms)
+
+3. 图片压缩：[tinypng](https://tinypng.com)
+
+4. 图片上传工具：待续
 
