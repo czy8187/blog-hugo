@@ -51,7 +51,7 @@ Learn more and contribute on GitHub.
 
 1. Markdown工具：[Typora](https://www.typora.io)
 
-2. 图床暂时用的:[SM.MS](https://sm.ms)
+2. 图床：[聚合图床](https://www.superbed.cn)和[SM.MS](https://sm.ms)(已弃)。测试一下：![](https://pic.superbed.cn/item/5cc2cecb3a213b04170139cb)
 
 3. 图片压缩：[tinypng](https://tinypng.com)
 
