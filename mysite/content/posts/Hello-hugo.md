@@ -2,7 +2,7 @@
 title: "Hello Hugo" # 文章标题
 date: 2019-04-20T01:50:56+08:00 # 自动添加日期信息
 draft: true # 设为false可被编译为HTML，true供本地修改
-categories: ["博客"] #文章类型，用于归档
+categories: ["工具 ~ 技巧"] #文章类型，用于归档
 tags: ["博客","Hugo"]  # 文章标签，可设置多个，用逗号隔开。Hugo会自动生成标签页
 ---
 
@@ -51,7 +51,7 @@ Learn more and contribute on GitHub.
 
 1. Markdown工具：[Typora](https://www.typora.io)
 
-2. 图床：[聚合图床](https://www.superbed.cn)和[SM.MS](https://sm.ms)(已弃)。测试一下：![](https://pic.superbed.cn/item/5cc2cecb3a213b04170139cb)
+2. 图床：[聚合图床](https://www.superbed.cn)和[SM.MS](https://sm.ms)(已弃)。测试一下：![](https://pic.superbed.cn/item/5cc4ff583a213b0417258690)
 
 3. 图片压缩：[tinypng](https://tinypng.com)
 
