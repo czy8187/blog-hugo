@@ -2,7 +2,7 @@
 title: "Mac系统下Homebrew关闭自动更新" # 文章标题
 date: 2019-04-20T21:53:21+08:00 # 自动添加日期信息
 draft: true # 设为false可被编译为HTML，true供本地修改
-categories: ["工具 ~ 技巧"] #文章类型，用于归档
+categories: ["工具~技巧"] #文章类型，用于归档
 tags: ["Homebrew"]  # 文章标签，可设置多个，用逗号隔开。Hugo会自动生成标签页
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: "完美适配iOS 11"
 date: 2018-05-30T09:44:16+08:00
-categories: ["编程 ~ 技术"]
+categories: ["编程~技术"]
 tags: ["iOS 11"]
 ---
 
