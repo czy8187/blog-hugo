@@ -52,11 +52,29 @@ Learn more and contribute on GitHub.
    进到`~/Documents/OneDrive/hugo_blog/blog-hugo/mysite`目录,执行如下git命令：
 
    ```css
+   hugo --theme=LeaveIt --buildDrafts --baseUrl="https://topsee.top"
+   ```
+
+   --buildDrafts 不加会生成无内容的网站
+
+   --baseUrl要和config.toml的地址一致。
+
+    
+
+   顺利的话会创建public文件（里面的内容就是你要上传的静态网站的文件。）
+
+   ```css
+   cd public
    git status
    git add -A
    git commit -m "first commit"
-   git pull origin master --allow-unrelated-histories
    git push -u origin master
+   ```
+
+   如果push报错，尝试执行如下命令后再次push：
+
+   ```css
+   git pull origin master --allow-unrelated-histories
    ```
 
    
