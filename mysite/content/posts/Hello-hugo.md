@@ -44,8 +44,22 @@ Learn more and contribute on GitHub.
 ### 部署过程中遇到的问题
 
 1. 使用该主题时，文章标题*号后面要加空格，如：二号标题写法为：`**空格+内容`
+
 2. TODO：文章目录导航(待添加)，可参考：https://github.com/liuzc/LeaveIt/pull/11
-3. TODO：文章归档和标签按时间倒序()
+
+3. 部署命令：
+
+   进到`~/Documents/OneDrive/hugo_blog/blog-hugo/mysite`目录,执行如下git命令：
+
+   ```css
+   git status
+   git add -A
+   git commit -m "first commit"
+   git pull origin master --allow-unrelated-histories
+   git push -u origin master
+   ```
+
+   
 
 ### 写作工具
 
