@@ -1,12 +1,13 @@
 baseURL = "https://topsee.top"
-languageCode = "en-us"
+languageCode = "zh-cn"
 title = "悲酥清风﹌"
 theme = "LeaveIt"
+hasCJKLanguage = true # 开启可以让「字数统计」统计汉字
 
-paginate = 12
-enableEmoji = true
-enableRobotsTXT = true
-googleAnalytics = ""
+paginate = 12 # 每页的文章数
+enableEmoji = true # 支持 Emoji
+enableRobotsTXT = true # 支持 robots.txt
+googleAnalytics = "" # Google 统计 id
 
 preserveTaxonomyNames = true
 # toc = true #文章导航
@@ -21,7 +22,7 @@ preserveTaxonomyNames = true
 
 [menu]
   [[menu.main]]
-    name = "博客"
+    name = "博文"
     url = "/posts/"
     weight = 1
 

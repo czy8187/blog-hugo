@@ -47,7 +47,13 @@ Learn more and contribute on GitHub.
 
 2. TODO：文章目录导航(待添加)，可参考：https://github.com/liuzc/LeaveIt/pull/11
 
-3. 部署命令：
+3. TODO: 使用Travis CI 自动部署Hugo博客，https://mogeko.me/2018/028/
+
+    
+
+    
+
+### 部署命令：
 
    进到`~/Documents/OneDrive/hugo_blog/blog-hugo/mysite`目录,执行如下git命令：
 
@@ -59,7 +65,7 @@ Learn more and contribute on GitHub.
 
    --baseUrl要和config.toml的地址一致。
 
-    
+​    
 
    顺利的话会创建public文件（里面的内容就是你要上传的静态网站的文件。）
 
