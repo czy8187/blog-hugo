@@ -47,7 +47,7 @@ preserveTaxonomyNames = true
     avatar = "/images/me/avatar.png"           # Author's avatar
     subtitle = "不气馁，有召唤，爱自由."         # Subtitle
     cdn_url = ""           # Base CDN URL
-    home_mode = "" # post or other
+    home_mode = "post" # post or other
 
     google_verification = ""
    
