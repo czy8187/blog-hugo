@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>工具~技巧 on 悲酥清风﹌</title>
+    <link>https://topsee.top/categories/%E5%B7%A5%E5%85%B7~%E6%8A%80%E5%B7%A7/</link>
+    <description>Recent content in 工具~技巧 on 悲酥清风﹌</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Sat, 20 Apr 2019 21:53:21 +0800</lastBuildDate>
+    
+	<atom:link href="https://topsee.top/categories/%E5%B7%A5%E5%85%B7~%E6%8A%80%E5%B7%A7/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Mac系统下Homebrew关闭自动更新</title>
+      <link>https://topsee.top/2019/mac%E7%B3%BB%E7%BB%9Fhomebrew%E5%85%B3%E9%97%AD%E8%87%AA%E5%8A%A8%E6%9B%B4%E6%96%B0/</link>
+      <pubDate>Sat, 20 Apr 2019 21:53:21 +0800</pubDate>
+      
+      <guid>https://topsee.top/2019/mac%E7%B3%BB%E7%BB%9Fhomebrew%E5%85%B3%E9%97%AD%E8%87%AA%E5%8A%A8%E6%9B%B4%E6%96%B0/</guid>
+      <description>在 mac 下使用 brew 安装软件时，默认每次都会自动更新 homebrew，显示 $ Updating Homebrew…, 网络状况不好或者没有换源的时候会很慢，卡在这里许久</description>
+    </item>
+    
+    <item>
+      <title>Hello Hugo</title>
+      <link>https://topsee.top/2019/hello-hugo/</link>
+      <pubDate>Sat, 20 Apr 2019 01:50:56 +0800</pubDate>
+      
+      <guid>https://topsee.top/2019/hello-hugo/</guid>
+      <description>Hello Hugo Hugo 是由 Go 语言实现的静态网站生成器。简单、易用、高效、易扩展、快速部署。 官网：https://gohugo.io 中文文档：https://</description>
+    </item>
+    
+  </channel>
+</rss>

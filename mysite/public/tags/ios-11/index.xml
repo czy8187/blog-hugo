@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>iOS 11 on 悲酥清风﹌</title>
+    <link>https://topsee.top/tags/ios-11/</link>
+    <description>Recent content in iOS 11 on 悲酥清风﹌</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Wed, 30 May 2018 09:44:16 +0800</lastBuildDate>
+    
+	<atom:link href="https://topsee.top/tags/ios-11/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>完美适配iOS 11</title>
+      <link>https://topsee.top/2018/%E5%AE%8C%E7%BE%8E%E9%80%82%E9%85%8Dios-11/</link>
+      <pubDate>Wed, 30 May 2018 09:44:16 +0800</pubDate>
+      
+      <guid>https://topsee.top/2018/%E5%AE%8C%E7%BE%8E%E9%80%82%E9%85%8Dios-11/</guid>
+      <description>前言 升级iOS 11 之后，发现屏幕适配的bug 以下为适配解决方案 在Appdelegate.m中的didFinishLaunchingWithOp</description>
+    </item>
+    
+  </channel>
+</rss>
